@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#0A0A0A" />
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#262626" stroke-width="4" />
+  <circle cx="256" cy="256" r="140" fill="none" stroke="#262626" stroke-width="3" stroke-dasharray="6 6" />
+  <circle cx="256" cy="256" r="70" fill="none" stroke="#262626" stroke-width="2" />
+  <line x1="256" y1="46" x2="256" y2="466" stroke="#262626" stroke-width="2" />
+  <line x1="46" y1="256" x2="466" y2="256" stroke="#262626" stroke-width="2" />
+  <!-- Radar sweep line -->
+  <line x1="256" y1="256" x2="400" y2="112" stroke="#E4FF1A" stroke-width="4" stroke-linecap="square" />
+  <!-- Motorcycle silhouette / courier chevron -->
+  <path d="M160 330 L256 160 L352 330 L256 280 Z" fill="#E4FF1A" />
+  <circle cx="256" cy="256" r="8" fill="#0A0A0A" />
+  <!-- Corner registration marks -->
+  <path d="M30 50 L30 30 L50 30" fill="none" stroke="#E4FF1A" stroke-width="3" />
+  <path d="M482 50 L482 30 L462 30" fill="none" stroke="#E4FF1A" stroke-width="3" />
+  <path d="M30 462 L30 482 L50 482" fill="none" stroke="#E4FF1A" stroke-width="3" />
+  <path d="M482 462 L482 482 L462 482" fill="none" stroke="#E4FF1A" stroke-width="3" />
+</svg>

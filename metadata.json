@@ -1,0 +1,6 @@
+{
+  "name": "RADAR DISPATCH MOTO - Flat-Pass Courier Terminal",
+  "description": "Progressive Web App for on-demand motorcycle delivery dispatch on a Pay-As-You-Earn flat-pass model (0% commission) connecting restaurants with motorcycle couriers.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
